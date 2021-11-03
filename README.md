@@ -1,4 +1,4 @@
-Libraries I used (the reason you're probably here):
+Codes I used (the reason you're probably here):
 
 - [Jekyll Now](https://github.com/barryclark/jekyll-now)
 - [GitHub Octocat corner](http://tholman.com/github-corners/)
