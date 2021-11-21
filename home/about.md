@@ -8,7 +8,10 @@ Hi! I'm Weiyan Hu, and I'm a senior (class of 2022) studying Computer Science at
 
 ## Interests
 
-My interests lie in Android Development and low level system knowledge. I love to plan things ahead and actively finding out my weaknesses. I am very willing to listen to other people's critiques and think hard to fix them.
+My interests lie in Android Development and software testing. Recently I just finished the book "The Art Of Software Testing
+. It is a really interesting book and makes me want to gain more knowledge about QA testing specifically automated testing. Currently I am reading "Selenium 2 Automated Testing"
+
+I love to plan things ahead and actively finding out my weaknesses. I am very willing to listen to other people's critiques and think hard to fix them.
 
 I love reading books before bed, which helped me to look at things at different perspectives and cleared my mind. The books I am recently reading are [non-violent communication](https://www.amazon.com/Nonviolent-Communication-Language-Life-Changing-Relationships/dp/189200528X) and [Deep Learning](https://www.amazon.com/Deep-Work-Focused-Success-Distracted/dp/1455586692)
 
